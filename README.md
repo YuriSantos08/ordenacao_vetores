@@ -31,24 +31,20 @@ O programa implementa as seguintes funcionalidades:
 ### Pré-requisitos
 É necessário ter um compilador C instalado (como o GCC).
 
-### Compilação
-Navegue até o diretório do projeto no terminal e compile o código:
+##Compilação
+Navegue até o diretório do projeto no terminal.
 
-```bash
-gcc leitor_csv.c -o leitor_csv.exe
-Execução
-Execute o programa compilado:
-
-bash
-Copiar
-Editar
-./leitor_csv.exe
-Interação
+Compile o código usando o seguinte comando:
+**gcc leitor_csv.c -o leitor_csv.exe**
+ Execução
+Após a compilação, execute o programa com o seguinte comando:
+**./leitor_csv.exe**
+##Interação com o Usuário
 O programa solicitará:
 
-O nome do arquivo CSV de entrada (ex: produtos.csv).
+Nome do arquivo CSV de entrada (ex: produtos.csv).
 
-O número da coluna para ordenar:
+Número da coluna para ordenação:
 
 1 para Nome
 
@@ -56,6 +52,15 @@ O número da coluna para ordenar:
 
 3 para Preço
 
-O nome do arquivo CSV de saída (ex: saida_nome.csv)
+Nome do arquivo CSV de saída (ex: saida_nome.csv).
 
-Autores: GUILHERME ANDRADE, YURI DA COSTA, MYGUEL ARCANJO, ICARO DE OLIVEIRA, LUIZ CARLOS .
+ Autores
+Guilherme Andrade
+
+Yuri da Costa
+
+Myguel Arcanjo
+
+Icaro de Oliveira
+
+Luiz Carlos
