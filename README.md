@@ -26,12 +26,12 @@ O programa implementa as seguintes funcionalidades:
 
 ---
 
-## ⚙️ Como Compilar e Executar
+##  Como Compilar e Executar
 
 ### Pré-requisitos
 É necessário ter um compilador C instalado (como o GCC).
 
-##Compilação
+### Compilação
 Navegue até o diretório do projeto no terminal.
 
 Compile o código usando o seguinte comando:
@@ -54,7 +54,7 @@ Número da coluna para ordenação:
 
 Nome do arquivo CSV de saída (ex: saida_nome.csv).
 
- Autores
+###  Autores
 Guilherme Andrade
 
 Yuri da Costa
